@@ -1,26 +1,18 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: How To Use Checklists To Improve Your UX
+date: 2019-10-29 04:07:47 Z
 draft: false
-
-# post thumb
-image: "images/featured-post/post-3.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: 
-  - "Web Design"
+image: images/featured-post/post-3.jpg
+description: this is meta description
+categories:
+- Web Design
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
-
-# post type
-type: "featured"
+- Photos
+- Game
+- React
+- Python
+- New
+type: featured
 ---
 
 # Heading 1
