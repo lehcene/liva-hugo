@@ -1,11 +1,11 @@
 ---
 title: How To Use Checklists To Improve nour UX
-date: 2019-10-29 04:07:47 Z
+date: 2019-10-29 04:07:00 Z
 draft: false
 image: images/featured-post/post-1.jpg
 description: this is meta description
 categories:
-- Android And Gaming
+- business
 tags:
 - Photos
 - Game
